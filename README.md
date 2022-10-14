@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Maciej
-- 👀 I’m interested in mobile application developments, engineering, aircrafts, sport
-- 🌱 I’m currently developing beautiful Flutter apps.
-- 💞️ I’m looking to collaborate on Flutter Projects
-- 📫 How to reach me: mszakacz@gmail.com
+👋 Hi, I’m Maciej Szakacz and I am a Mobile App Developer.
+
+👀 I’m interested in mobile application development, engineering, aircrafts, sport.
+
+📫 How to reach me: 
+- mszakacz@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/maciej-szakacz/)
+- [StackOverFlow](https://stackoverflow.com/users/18102423/maciej-szakacz)
 
 # My Projects:
 
@@ -23,6 +26,7 @@ You can download the app from:
 - multilingual translations
 - payments
 - unit tests
+- app distribution to testers and app deployment
 
 
 
