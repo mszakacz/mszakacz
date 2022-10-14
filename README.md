@@ -6,6 +6,7 @@
 - mszakacz@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/maciej-szakacz/)
 - [StackOverFlow](https://stackoverflow.com/users/18102423/maciej-szakacz)
+- [You Tube Channel](https://www.youtube.com/channel/UCWjKTcOwCU_xpinKxsI27RQ)
 
 # My Projects:
 
