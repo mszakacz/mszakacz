@@ -24,7 +24,7 @@ You can download the app from:
 - Provider (state management)
 - REST API
 - Notifications
-- multilingual translations
+- Multilingual translations
 - Payments
 - Unit tests
 - App distribution to testers and app deployment
@@ -49,8 +49,12 @@ At the beginning user is invited to create an account and provide some personal 
 - Tests (unit tests and widget tests)
 - User messages and group chats
 
+### 📱 MWS (High Bay Warehouse)
 
-
+#### Stack:
+- Flutter / Dart
+- BLoC (state management)
+- REST API
 
 
 <!---
