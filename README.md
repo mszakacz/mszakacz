@@ -13,7 +13,7 @@
 ### 📱 AuriDM
 
 #### Project Description:
-Mobile app for flights and aircrafts services management. App is published in Google Play and App Store. It is dedicated to aircrafts owners, pilots, mechanics, aircrafts for rent companies. One of the main app features are: management of the aircraft services, flifgts, pilots, pilots and flights statistics, calendar, management of aircrafts that user is owner or manager, planning aircraft services, aircraft problems registration, management of other users roles, sending a messages, and many others. App is multilingual and support newest standards of UI/UX.
+Mobile app for flights and aircraft services management. App is published in Google Play and App Store. It is dedicated to aircraft owners, pilots, mechanics, airplanes for rent companies. One of the main app features is management of the aircraft services, flights, pilots statistics, defects, documents, calendar, sending a messages, and many others. App is multilingual and support newest standards of UI/UX.
 You can download the app from:
 - [Google Play](https://play.google.com/store/apps/details?id=com.aero.auridm&hl=en)
 - [App Store](https://apps.apple.com/pl/app/auridm/id1541869267?l=en)
@@ -25,9 +25,9 @@ You can download the app from:
 - REST API
 - Notifications
 - multilingual translations
-- payments
-- unit tests
-- app distribution to testers and app deployment
+- Payments
+- Unit tests
+- App distribution to testers and app deployment
 
 
 
