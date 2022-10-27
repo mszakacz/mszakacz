@@ -29,6 +29,27 @@ You can download the app from:
 - Unit tests
 - App distribution to testers and app deployment
 
+### 📱 Tripsy
+
+#### Project Description:
+Mobile app for trip organization that I created from scratch. 
+For this project I provided very high standard of development (clean code, architecture, making the app easy to test, maintain and add new features). 
+At the beginning user is invited to create an account and provide some personal informations like age, hobbies, and upload his pictures. Then the variety of marvelous trips are available for him. App can suggest some matching trips as well according to trip members age and hobbies. Before join the trip, user can join Welcome chat, which gives the opportunity to get to know people better and talk about destinations and activities. App sticks to newest standards of mobile applications animations and gestures.
+
+#### Stack:
+- Flutter / Dart
+- BLoC (state management)
+- Internalization
+- Firebase FireStore
+- Authentication (Google, AppStore, Facebook, PhoneNumber)
+- Firebase Storage
+- App distribution to testers
+- Pictures uploading
+- Notifications
+- Tests (unit tests and widget tests)
+- User messages and group chats
+
+
 
 
 
