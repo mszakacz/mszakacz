@@ -55,6 +55,8 @@ At the beginning user is invited to create an account and provide some personal 
 - Flutter / Dart
 - BLoC (state management)
 - REST API
+- Barcode scanner
+- Labels printing using external Zebra printer
 
 
 <!---
