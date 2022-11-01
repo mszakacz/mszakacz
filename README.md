@@ -51,6 +51,10 @@ At the beginning user is invited to create an account and provide some personal 
 
 ### 📱 MWS (High Bay Warehouse)
 
+#### Project Description:
+Mobile app provides all needed functionality for warehouse operations like receipt of goods, delivery of the goods, label printing, barcode scanning, stock transfer, inventory operations e.t.c. App is designed to work fine on stock dedicated scanning devices (e.g: Zebra scanner) as well as on standard mobile phones (scanning using camera).
+Project includes not only final user app, but also preparation of the framework - customer (who is not a programmer) can edit app layout, content and available features before selling the app for the final end-user.
+
 #### Stack:
 - Flutter / Dart
 - BLoC (state management)
