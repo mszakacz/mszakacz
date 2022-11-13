@@ -18,7 +18,7 @@ You can download the app from:
 - [Google Play](https://play.google.com/store/apps/details?id=com.aero.auridm&hl=en)
 - [App Store](https://apps.apple.com/pl/app/auridm/id1541869267?l=en)
 
-#### Stack:
+#### Stack / Tools / Skills:
 - Flutter / Dart
 - Firebase
 - Provider (state management)
@@ -28,6 +28,7 @@ You can download the app from:
 - Payments
 - Unit tests
 - App distribution to testers and app deployment
+- Flutter migration to null-safety
 
 ### 📱 Tripsy
 
