@@ -62,6 +62,7 @@ Project includes not only final user app, but also preparation of the framework 
 - REST API
 - Barcode scanner
 - Labels printing using external Zebra printer
+- Saving data in device memory
 
 
 <!---
