@@ -45,6 +45,7 @@ At the beginning user is invited to create an account and provide some personal 
 - Authentication (Google, AppStore, Facebook, PhoneNumber)
 - Firebase Storage
 - App distribution to testers
+- Facebook integration
 - Pictures uploading
 - Notifications
 - Tests (unit tests and widget tests)
