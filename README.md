@@ -37,7 +37,7 @@ Mobile app for trip organization that I created from scratch.
 For this project I provided very high standard of development (clean code, architecture, making the app easy to test, maintain and add new features). 
 At the beginning user is invited to create an account and provide some personal informations like age, hobbies, and upload his pictures. Then the variety of marvelous trips are available for him. App can suggest some matching trips as well according to trip members age and hobbies. Before join the trip, user can join Welcome chat, which gives the opportunity to get to know people better and talk about destinations and activities. App sticks to newest standards of mobile applications animations and gestures.
 
-#### Stack:
+#### Stack / Tools / Skills:
 - Flutter / Dart
 - BLoC (state management)
 - Internalization
@@ -57,7 +57,7 @@ At the beginning user is invited to create an account and provide some personal 
 Mobile app provides all needed functionality for warehouse operations like receipt of goods, delivery of the goods, label printing, barcode scanning, stock transfer, inventory operations e.t.c. App is designed to work fine on stock dedicated scanning devices (e.g: Zebra scanner) as well as on standard mobile phones (scanning using camera).
 Project includes not only final user app, but also preparation of the framework - customer (who is not a programmer) can edit app layout, content and available features before selling the app for the final end-user.
 
-#### Stack:
+#### Stack / Tools / Skills:
 - Flutter / Dart
 - BLoC (state management)
 - REST API
