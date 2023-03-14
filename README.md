@@ -13,7 +13,7 @@
 ### 📱 Seyy
 
 #### Project Description:
-Comercial project which requires a good cooperacion of people from many fields, like: Flutter Developers, Backend Developers, UI Designers, FrontEnd Developers, Speech therapist. App is dedicated for people who have some kind of speech problems. It helps them to come back to their previous speech abilities. App offers exercises, online sessions, video call with doctor, and many other. 
+Comercial project which requires a good cooperacion of people from many fields, like: Flutter Developers, Backend Developers, UI Designers, FrontEnd Developers, Speech therapist. App is dedicated for people who have some kind of speech problems. It helps them to come back to their previous speech abilities. App offers exercises, online sessions, video call with doctor, and many other. App is outstanding because of relation that it builds with the user. It encourage him to take effort which helps in fast recovery by sending friendly notification, registering the progress and calculating user's motivation to adjust the content to user's preferences and mood. 
 
 #### Stack / Tools / Skills:
 - Flutter / Dart
