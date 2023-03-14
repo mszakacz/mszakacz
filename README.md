@@ -10,6 +10,23 @@
 
 # My Projects:
 
+### 📱 Taboo Game
+
+#### Project Description:
+My personal project, Game that I developed from scratch for my friends to play with them. Game is the extension of the popular Taboo Game in which taboo-giver has to make their team guess the taboo word without using the list of forbidden words in its explanation. Game includes few interesting categories with big number of taboo cards. App offers many possibilities for customization and settings. Data for taboo cards were generated with use of ChatGPT (AI).
+You can download the app from:
+- [Google Play](https://play.google.com/store/apps/details?id=com.developma.taboo)
+
+#### Stack / Tools / Skills:
+- Flutter / Dart
+- BLoC (state management)
+- Changing app language in real time
+- Saving data in device memory
+- Data generated with ChatGPT
+- Unit tests
+- App deployment
+
+
 ### 📱 AuriDM
 
 #### Project Description:
