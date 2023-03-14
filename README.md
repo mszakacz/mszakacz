@@ -10,6 +10,26 @@
 
 # My Projects:
 
+### 📱 Seyy
+
+#### Project Description:
+Comercial project which requires a good cooperacion of people from many fields, like: Flutter Developers, Backend Developers, UI Designers, FrontEnd Developers, Speech therapist. App is dedicated for people who have some kind of speech problems. It helps them to come back to their previous speech abilities. App offers exercises, online sessions, video call with doctor, and many other. 
+
+#### Stack / Tools / Skills:
+- Flutter / Dart
+- BLoC (state management)
+- Authentication with use of KeyCloak
+- Videos watching
+- Sounds recorder
+- Sounds player
+- REST API
+- Notifications
+- Multilingual translations
+- Payments
+- Unit tests
+- App distribution to testers and app deployment
+
+
 ### 📱 Taboo Game
 
 #### Project Description:
