@@ -25,7 +25,9 @@ Comercial project which requires a good cooperacion of people from many fields, 
 - REST API
 - Notifications
 - Multilingual translations
-- Payments
+- Payments (PayU)
+- Deep Linking (navigate to specific app screen on url launch)
+- Video sessions 
 - Unit tests
 - App distribution to testers and app deployment
 
