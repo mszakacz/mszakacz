@@ -27,7 +27,7 @@ Comercial project which requires a good cooperacion of people from many fields, 
 - Multilingual translations
 - Payments (PayU)
 - Deep Linking (navigate to specific app screen on url launch)
-- Video sessions 
+- Video sessions (Twilio)
 - Unit tests
 - App distribution to testers and app deployment
 
