@@ -50,6 +50,24 @@ You can download the app from:
 - App deployment (AppStore and Google Play)
 
 
+### 📱 Colorful Sudoku
+
+#### Project Description:
+My personal project, Sudoku is well know logic-based, combinatorial number-placement puzzle game. This app improves it by adding a colors, which makes the game more interesting for the young ones. There is an option to show the numbers as well. Game offers over 60 levels which includes smaller challanges like completing the sudoku in the lowest number of moves or in the specific time. Every level is auto-generated which means that every solution is different.
+You can download the app from:
+- [Google Play](https://play.google.com/store/apps/details?id=com.developma.colored_sudoku)
+- [App Store](https://apps.apple.com/us/app/colorful-sudoku/id6446909154)
+
+#### Stack / Tools / Skills:
+- Flutter / Dart
+- BLoC (state management)
+- Advertisements (AdMob)
+- Changing app language in real time
+- Saving data in device memory
+- Unit tests
+- App deployment (AppStore and Google Play)
+
+
 ### 📱 AuriDM
 
 #### Project Description:
