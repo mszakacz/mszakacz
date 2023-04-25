@@ -38,6 +38,7 @@ Comercial project which requires a good cooperacion of people from many fields, 
 My personal project, Game that I developed from scratch for my friends to play with them. Game is the extension of the popular Taboo Game in which taboo-giver has to make their team guess the taboo word without using the list of forbidden words in its explanation. Game includes few interesting categories with big number of taboo cards. App offers many possibilities for customization and settings. Data for taboo cards were generated with use of ChatGPT (AI).
 You can download the app from:
 - [Google Play](https://play.google.com/store/apps/details?id=com.developma.taboo)
+- [App Store](https://apps.apple.com/us/app/taboo/id6447674510)
 
 #### Stack / Tools / Skills:
 - Flutter / Dart
@@ -46,7 +47,7 @@ You can download the app from:
 - Saving data in device memory
 - Data generated with ChatGPT
 - Unit tests
-- App deployment
+- App deployment (AppStore and Google Play)
 
 
 ### 📱 AuriDM
