@@ -8,7 +8,7 @@
 - [StackOverFlow](https://stackoverflow.com/users/18102423/maciej-szakacz)
 - [You Tube Channel](https://www.youtube.com/channel/UCWjKTcOwCU_xpinKxsI27RQ)
 
-# My Projects:
+# Comercial Projects:
 
 ## 📱 Seyy
 
@@ -32,42 +32,6 @@ Comercial project which requires a good cooperacion of people from many fields, 
 - App distribution to testers and app deployment
 
 
-## 📱 Taboo Game
-
-#### Project Description:
-My personal project, Game that I developed from scratch for my friends to play with them. Game is the extension of the popular Taboo Game in which taboo-giver has to make their team guess the taboo word without using the list of forbidden words in its explanation. Game includes few interesting categories with big number of taboo cards. App offers many possibilities for customization and settings. Data for taboo cards were generated with use of ChatGPT (AI).
-You can download the app from:
-- [Google Play](https://play.google.com/store/apps/details?id=com.developma.taboo)
-- [App Store](https://apps.apple.com/us/app/taboo/id6447674510)
-
-#### Stack / Tools / Skills:
-- Flutter / Dart
-- BLoC (state management)
-- Changing app language in real time
-- Saving data in device memory
-- Data generated with ChatGPT
-- Unit tests
-- App deployment (AppStore and Google Play)
-
-
-## 📱 Colorful Sudoku
-
-#### Project Description:
-My personal project, Sudoku is well know logic-based, combinatorial number-placement puzzle game. This app improves it by adding a colors, which makes the game more interesting for the young ones. There is an option to show the numbers as well. Game offers over 60 levels which includes smaller challanges like completing the sudoku in the lowest number of moves or in the specific time. Every level is auto-generated which means that every solution is different.
-You can download the app from:
-- [Google Play](https://play.google.com/store/apps/details?id=com.developma.colored_sudoku)
-- [App Store](https://apps.apple.com/us/app/colorful-sudoku/id6446909154)
-
-#### Stack / Tools / Skills:
-- Flutter / Dart
-- BLoC (state management)
-- Advertisements (AdMob)
-- Changing app language in real time
-- Saving data in device memory
-- Unit tests
-- App deployment (AppStore and Google Play)
-
-
 ## 📱 AuriDM
 
 #### Project Description:
@@ -87,6 +51,7 @@ You can download the app from:
 - Unit tests
 - App distribution to testers and app deployment
 - Flutter migration to null-safety
+
 
 ## 📱 Tripsy
 
@@ -122,6 +87,46 @@ Project includes not only final user app, but also preparation of the framework 
 - Barcode scanner
 - Labels printing using external Zebra printer
 - Saving data in device memory
+
+
+# Personal Projects:
+
+## 📱 Colorful Sudoku
+
+#### Project Description:
+Sudoku is well know logic-based, combinatorial number-placement puzzle game. This app improves it by adding a colors, which makes the game more interesting for the young ones. There is an option to show the numbers as well. Game offers over 60 levels which includes smaller challanges like completing the sudoku in the lowest number of moves or in the specific time. Every level is auto-generated which means that every solution is different.
+You can download the app from:
+- [Google Play](https://play.google.com/store/apps/details?id=com.developma.colored_sudoku)
+- [App Store](https://apps.apple.com/us/app/colorful-sudoku/id6446909154)
+
+#### Stack / Tools / Skills:
+- Flutter / Dart
+- BLoC (state management)
+- Advertisements (AdMob)
+- Changing app language in real time
+- Saving data in device memory
+- Unit tests
+- App deployment (AppStore and Google Play)
+
+
+## 📱 Taboo Game
+
+#### Project Description:
+Game that I developed from scratch for my friends to play with them. Game is the extension of the popular Taboo Game in which taboo-giver has to make their team guess the taboo word without using the list of forbidden words in its explanation. Game includes few interesting categories with big number of taboo cards. App offers many possibilities for customization and settings. Data for taboo cards were generated with use of ChatGPT (AI).
+You can download the app from:
+- [Google Play](https://play.google.com/store/apps/details?id=com.developma.taboo)
+- [App Store](https://apps.apple.com/us/app/taboo/id6447674510)
+
+#### Stack / Tools / Skills:
+- Flutter / Dart
+- BLoC (state management)
+- Changing app language in real time
+- Saving data in device memory
+- Data generated with ChatGPT
+- Unit tests
+- App deployment (AppStore and Google Play)
+
+
 
 
 <!---
