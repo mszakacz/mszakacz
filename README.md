@@ -105,6 +105,7 @@ You can download the app from:
 - Advertisements (AdMob)
 - Changing app language in real time
 - Saving data in device memory
+- Internet connection listener
 - Unit tests
 - App deployment (AppStore and Google Play)
 
