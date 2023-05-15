@@ -8,7 +8,7 @@
 - [StackOverFlow](https://stackoverflow.com/users/18102423/maciej-szakacz)
 - [You Tube Channel](https://www.youtube.com/channel/UCWjKTcOwCU_xpinKxsI27RQ)
 
-# Comercial Projects:
+# Commercial Projects:
 
 ## 📱 Seyy
 
