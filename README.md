@@ -22,6 +22,7 @@ Comercial project which requires a good cooperacion of people from many fields, 
 - Videos watching
 - Sounds recorder
 - Sounds player
+- Bluetooth connectivity
 - REST API
 - Notifications
 - Multilingual translations
