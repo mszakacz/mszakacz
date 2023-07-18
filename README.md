@@ -128,6 +128,25 @@ You can download the app from:
 - Unit tests
 - App deployment (AppStore and Google Play)
 
+## 📱 Personality Test
+
+#### Project Description:
+User can make personality test (brief and full), study the result, find which types of people who suits him best to create a relationship with, discover the career paths that he may be the most successful in.
+Data generated with use of ChatGPT (AI).
+You can download the app from:
+- [Google Play](https://play.google.com/store/apps/details?id=com.developma.personality_type)
+- [App Store](https://apps.apple.com/us/app/personality-types/id6450872440)
+
+#### Stack / Tools / Skills:
+- Flutter / Dart
+- BLoC (state management)
+- GoRouter
+- Changing app language in real time
+- Saving data in device memory
+- Data generated with ChatGPT
+- Unit tests
+- App deployment (AppStore and Google Play)
+
 
 
 
