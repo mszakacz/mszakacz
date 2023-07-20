@@ -35,7 +35,7 @@ Commercial project which requires a good cooperation of people from many fields,
 ## 📱 Public event app (name covered)
 
 #### Project Description:
-Commercial project, mobile app for big European event which main functionality is a interactive map of the facility. The map was fully developed by me locally on the device and offers zooming, moving, selecting the specific place and drawing the way how to reach that location. Map is simmilar to these in big shopping malls with shops and markets. Another feature is live presenting of the results of the competitions. Other informations presented in the app, like Partners, Media and articles took data from Firebase. App has QR code scanner which is the part of the main feature. User are allowed to register. App was published in both AppStore and GooglePlay stores.
+Commercial project, mobile app for big European event which main functionality is an interactive map of the facility. The map was fully developed by me, works locally on the device and offers zooming, moving, selecting the specific place and drawing the way how to reach that location. It uses the Dijkstra’s Algorithm to find the most efficient path. Map is simmilar to these in big shopping malls to find shops and markets. Another feature is live presenting of the results of the competitions. Other informations presented in the app, like Partners, Media and articles took data from Firebase. App has QR code scanner which is the part of the main feature. User are allowed to register. App was published in both AppStore and GooglePlay stores.
 
 #### Stack / Tools / Skills:
 - Flutter / Dart
