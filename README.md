@@ -32,6 +32,25 @@ Commercial project which requires a good cooperation of people from many fields,
 - Unit tests
 - App distribution to testers and app deployment
 
+## 📱 Public event app (name covered)
+
+#### Project Description:
+Commercial project, mobile app for big European event which main functionality is a interactive map of the facility. The map was fully developed by me locally on the device and offers zooming, moving, selecting the specific place and drawing the way how to reach that location. Map is simmilar to these in big shopping malls with shops and markets. Another feature is live presenting of the results of the competitions. Other informations presented in the app, like Partners, Media and articles took data from Firebase. App has QR code scanner which is the part of the main feature. User are allowed to register. App was published in both AppStore and GooglePlay stores.
+
+#### Stack / Tools / Skills:
+- Flutter / Dart
+- BLoC (state management)
+- Firebase
+- Deep Linking
+- Video sessions (Twilio)
+- QR code scanner
+- Interactive map
+- Algorithm and Finding the Most Efficient Path
+- Authentication
+- Go to GoogleMap on address tap
+- Unit tests
+- Deployment to AppStore and GooglePlay
+  
 
 ## 📱 AuriDM
 
