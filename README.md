@@ -40,6 +40,7 @@ Commercial project, mobile app for big European event which main functionality i
 #### Stack / Tools / Skills:
 - Flutter / Dart
 - BLoC (state management)
+- Responsive design for both smartphones and tablets / iPads
 - Firebase
 - Deep Linking
 - Video sessions (Twilio)
@@ -49,6 +50,7 @@ Commercial project, mobile app for big European event which main functionality i
 - Authentication
 - Go to GoogleMap on address tap
 - Unit tests
+- Saving in device Downloads folder
 - Deployment to AppStore and GooglePlay
   
 
