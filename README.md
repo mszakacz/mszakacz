@@ -46,10 +46,12 @@ Commercial project, mobile app for big European event which main functionality i
 - Video sessions (Twilio)
 - QR code scanner
 - Interactive map
+- Navigation path animations
 - Algorithm and Finding the Most Efficient Path
 - Authentication
 - Go to GoogleMap on address tap
 - Unit tests
+- Upgrade app version
 - Saving in device Downloads folder
 - Deployment to AppStore and GooglePlay
   
