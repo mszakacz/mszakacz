@@ -35,13 +35,14 @@ Commercial project which requires a good cooperation of people from many fields,
 ## 📱 Engraving app (name covered)
 
 #### Project Description:
-Commercial project, mobile app that was used on big event of promoting of the e-cigarette. App offered a configurator for e-cigarette that included its color, custom design and text engraved on the device (text, font size, font style). After configuratior was finished and order paid, app generated the image that has to be engraved on the device and sent it to server that was connected with engraving machine.
+Commercial project, mobile app that was used on big event of promoting of the e-cigarette. App offered a configurator for e-cigarette that included its color, custom design and text engraved on the device (text, font size, font style). After configuratior was finished and order paid, app generated the image that has to be engraved on the device and sent it to server that was connected with engraving machine. Orders are queued and saved locally in case of internet problems, and then the data is synchronized.
 
 #### Stack / Tools / Skills:
 - Flutter / Dart
 - BLoC (state management)
 - Bar code scanner
 - Generate png image
+- Offline mode with synchronization
 - REST API
 
 ## 📱 Public event map (name covered)
@@ -65,6 +66,25 @@ Commercial project, mobile app for big European event which main functionality i
 - Unit tests
 - Upgrade app version
 - Saving in device Downloads folder
+- Deployment to AppStore and GooglePlay
+
+
+## 📱 Elections control app (name covered)
+
+#### Project Description:
+Commercial project, mobile app for election stewards and members of the electoral commission to control the elections. App shows details about Election commission that user is connected, displays teaching videos and documents and offers such a functionalities like posting election frequency, number of ballots and votes for candidates. Since polling station may be located in places without good internet connection, app support offline mode - all data are stored locally and starts synchronization when internet connection is restored.
+
+#### Stack / Tools / Skills:
+- Flutter / Dart
+- BLoC (state management)
+- Offline mode with synchronization
+- Authentication
+- Deep Linking
+- Video player with full screen mode
+- YouTube videos data
+- Unit tests
+- Saving in device Downloads folder
+- REST API
 - Deployment to AppStore and GooglePlay
 
 ## 📱 AuriDM
