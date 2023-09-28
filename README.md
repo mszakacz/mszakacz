@@ -69,10 +69,10 @@ Commercial project, mobile app for big European event which main functionality i
 - Deployment to AppStore and GooglePlay
 
 
-## 📱 Elections control app (name covered)
+## 📱 Elections inspection app (name covered)
 
 #### Project Description:
-Commercial project, mobile app for election stewards and members of the electoral commission to control the elections. App shows details about Election commission that user is connected, displays teaching videos and documents and offers such a functionalities like posting election frequency, number of ballots and votes for candidates. Since polling station may be located in places without good internet connection, app support offline mode - all data are stored locally and starts synchronization when internet connection is restored.
+Commercial project, mobile app for election stewards and members of the electoral commission to inspect and verify the elections process. App shows details about Election commission that user is connected, displays teaching videos and documents and offers such a functionalities like posting election frequency, number of ballots and votes for candidates. Since polling station may be located in places without good internet connection, app support offline mode - all data are stored locally and  synchronization starts when internet connection is restored.
 
 #### Stack / Tools / Skills:
 - Flutter / Dart
