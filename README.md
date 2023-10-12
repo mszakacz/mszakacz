@@ -5,7 +5,7 @@
 📫 How to reach me: 
 - mszakacz@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/maciej-szakacz/)
-- [Website](https://developma-website.web.app)
+- [Website](https://developma.pl/)
 - [StackOverFlow](https://stackoverflow.com/users/18102423/maciej-szakacz)
 - [YouTube Channel](https://www.youtube.com/channel/UCWjKTcOwCU_xpinKxsI27RQ)
 
