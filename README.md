@@ -57,7 +57,6 @@ Commercial project, mobile app for big European event which main functionality i
 - Responsive design for both smartphones and tablets / iPads
 - Firebase
 - Deep Linking
-- Video sessions (Twilio)
 - QR code scanner
 - Interactive map
 - Navigation path animations
