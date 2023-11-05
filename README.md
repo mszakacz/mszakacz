@@ -1,6 +1,6 @@
 👋 Hi, I’m Maciej Szakacz and I am a Mobile App Developer.
 
-👀 I’m interested in mobile application development, engineering, aircraft, sport.
+💼 Stack: Flutter, Node.JS, Firebase
 
 📫 How to reach me: 
 - mszakacz@gmail.com
