@@ -146,6 +146,20 @@ Project includes not only final user app, but also preparation of the framework 
 
 # Personal Projects:
 
+## 📱 Math 100%
+
+#### Project Description:
+My newest personal project that I am currently working on. It's mobile app for students to practice math exercise before highschool final exam. User can sign up using Google or Apple, create an account with custom avatar and practice math exercises. For every exercise app will show the correct answer, tip and full explanation. Moreover, there is a weekly ranking where best students can show up and win nice rewards. It motivates them to study daily. App offers some analytical features, it shows statistics, final exam estimated result, exercise's categories that user should work on and more. Finally, user can report exercise where he found mistake or wants to add some additional explanation. I developed this cross-platform app using Flutter, created back-end in Node JS and used Firebase as Data Base. 
+You can download the app from:
+- [App Store](https://apps.apple.com/us/app/matma-100/id6471745402)
+
+#### Stack / Tools / Skills:
+- Flutter / Dart
+- Node JS
+- Firebase (Data base, Storage, Cloud Functions)
+- Google and Apple authentication
+
+
 ## 📱 Colorful Sudoku
 
 #### Project Description:
