@@ -7,7 +7,7 @@
 - [LinkedIn](https://www.linkedin.com/in/maciej-szakacz/)
 - [Website](https://developma.pl/)
 - [StackOverFlow](https://stackoverflow.com/users/18102423/maciej-szakacz)
-- [YouTube Channel](https://www.youtube.com/channel/UCWjKTcOwCU_xpinKxsI27RQ)
+- [UI Portfolio](https://github.com/mszakacz/portfolio/blob/main/readme.md)
 
 # Commercial Projects:
 
