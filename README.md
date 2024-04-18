@@ -14,12 +14,13 @@
 ## 📱 DogCity
 
 #### Project Description:
-Mobile app presents the the map of dog-friendly places in your city.
+Mobile app presents the map of dog-friendly places in your city.
 App is published in [AppStore](https://apps.apple.com/us/app/dog-city/id6451201037) (published in UK for now)
 
 #### Stack / Tools:
 - Flutter / Dart
 - Firebase
+- GetIt
 - FireCMS
 - TypeScript
 - NodeJS
