@@ -58,6 +58,8 @@ Mobile app that teaches you how to recognize different wine's varieties. Users c
 - Flutter / Dart
 - BLoC (state management)
 - Stripe (payments)
+- RevenueCat (subscriptions)
+- CodeMagic (CI/CD)
 - Firebase Functions
 - Node JS (for back-end)
 - Firebase Authentication
