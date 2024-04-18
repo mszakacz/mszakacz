@@ -52,7 +52,7 @@ Commercial project which requires a good cooperation of people from many fields,
 ## 📱 Wine Tutor
 
 #### Project Description:
-Mobile app that teaches you how to recognize different wine's varieties. Users can store their wine tastings and rate them. App will not only suggest them which aromas professional can find, but also which aromas they found in the past in the same wine. And the cherry on the cake is an advanced analytics - app will show you your favorite wine variety, country of origin, aromas. Based on these analytics app can suggest you some new wines to try. Beautiful animations present how much you drink and shows the map with all your tastings locations as an unforgatable trip memories.
+Mobile app that teaches you how to recognize different wine's varieties. Users can store their wine tastings and rate them. App will not only suggest which aromas a professional can find, but also which aromas they found in the past in the same wine. And the cherry on the cake is advanced analytics - the app will show you your favorite wine variety, country of origin, aromas. Based on these analytics app can suggest you some new wines to try. Beautiful animations present how much you drink and shows the map with all your tastings locations as an unforgettable trip memories.
 
 #### Stack / Tools / Skills:
 - Flutter / Dart
