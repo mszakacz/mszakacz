@@ -204,6 +204,22 @@ You can download the app from:
 - Firebase (Data base, Storage, Cloud Functions)
 - Google and Apple authentication
 
+## 📱 Quick Ball
+
+#### Project Description:
+Simple mobile game to move the ball using a device accelerometer. The idea is to move the ball to the goal and avoid falling to the black hole. App presents a fresh approach to the classic Labyrinth and offers many interesting levels.
+You can download the app from:
+- [Google Play](https://play.google.com/store/apps/details?id=com.developma.quick_ball)
+- [App Store](https://apps.apple.com/app/quick-ball/id6504242426)
+
+#### Stack / Tools / Skills:
+- Flutter / Dart
+- BLoC (state management)
+- GoRouter
+- Saving data in device memory
+- Unit tests
+- CodeMagic (CI/CD)
+
 
 ## 📱 Colorful Sudoku
 
