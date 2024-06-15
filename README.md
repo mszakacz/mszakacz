@@ -11,6 +11,33 @@
 
 # Commercial Projects:
 
+## 📱 Wine Tutor
+
+#### Project Description:
+Mobile app that teaches you how to recognize different wine's varieties. Users can store their wine tastings and rate them. App will not only suggest which aromas a professional can find, but also which aromas the user found in the past in the same wine. And the cherry on the cake is advanced analytics - the app will show you your favorite wine variety, country of origin, aromas. Based on these analytics, the app can suggest you some new wines to try. Beautiful animations present how much you drink and shows the map with all your tastings locations as an unforgettable trip memories.
+You can download the app from:
+- [Google Play](https://play.google.com/store/apps/details?id=com.ejsak.wine_tutor)
+- [App Store](https://apps.apple.com/app/wine-tutor/id6476516017)
+
+#### Stack / Tools / Skills:
+- Flutter / Dart
+- BLoC (state management)
+- Stripe (payments)
+- RevenueCat (subscriptions)
+- CodeMagic (CI/CD)
+- Firebase Functions
+- Analytics (Firebase, Mixpanel)
+- Node JS (for back-end)
+- Firebase Authentication
+- Firebase Database
+- Geocoding
+- REST API
+- Notifications
+- Deep Linking
+- Unit tests
+- App distribution to testers
+- App deployment
+
 ## 📱 DogCity
 
 #### Project Description:
@@ -49,29 +76,6 @@ Commercial project which requires a good cooperation of people from many fields,
 - Video sessions (Twilio)
 - Unit tests
 - App distribution to testers and app deployment
-
-## 📱 Wine Tutor
-
-#### Project Description:
-Mobile app that teaches you how to recognize different wine's varieties. Users can store their wine tastings and rate them. App will not only suggest which aromas a professional can find, but also which aromas they found in the past in the same wine. And the cherry on the cake is advanced analytics - the app will show you your favorite wine variety, country of origin, aromas. Based on these analytics app can suggest you some new wines to try. Beautiful animations present how much you drink and shows the map with all your tastings locations as an unforgettable trip memories.
-
-#### Stack / Tools / Skills:
-- Flutter / Dart
-- BLoC (state management)
-- Stripe (payments)
-- RevenueCat (subscriptions)
-- CodeMagic (CI/CD)
-- Firebase Functions
-- Node JS (for back-end)
-- Firebase Authentication
-- Firebase Database
-- Geocoding
-- REST API
-- Notifications
-- Deep Linking
-- Unit tests
-- App distribution to testers
-- App deployment
 
 ## 📱 Engraving app (name covered)
 
