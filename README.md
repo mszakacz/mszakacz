@@ -11,6 +11,19 @@
 
 # Commercial Projects:
 
+## 📱 Walutomat
+
+#### Project Description:
+Big project realized together with 4 other experienced Flutter developers for the biggest company in the region from this category. Mobile app for currency exchange offers users to check currency rates and buy or sell by the desired rate including custom notification of rate level.
+
+#### Stack / Tools / Skills:
+- Flutter / Dart
+- GetIt
+- REST API
+- Notifications
+- Deep Linking
+- Unit tests
+
 ## 📱 Wine Tutor
 
 #### Project Description:
