@@ -208,6 +208,7 @@ Project includes not only final user app, but also preparation of the framework 
 #### Project Description:
 My newest personal project that I am currently working on. It's a mobile app for students to practice math exercises before the high school final exam. User can sign up using Google or Apple, create an account with custom avatar and practice math exercises. For every exercise app will show the correct answer, tip and full explanation. There is an AI Teacher available to answer any question that may have. Moreover, there is a weekly ranking where best students can show up and win nice rewards. It motivates them to study daily. App offers some analytical features, it shows statistics, final exam estimated result, exercise's categories that user should work on and more. Finally, user can report exercise where he found mistake or wants to add some additional explanation. I developed this cross-platform app using Flutter, created a back-end in Node JS and used Firebase as Database. App has about 1000 active users monthly!
 You can download the app from:
+- [Landing Page](https://mszakacz.github.io/developma-docs/matma100.html)
 - [App Store](https://apps.apple.com/us/app/matma-100/id6471745402)
 - [Google Play](https://play.google.com/store/apps/details?id=com.developma.math)
 
@@ -220,6 +221,7 @@ You can download the app from:
 - GoRouter
 - Mixpanel
 - Google and Apple authentication
+- RevenueCat
 
 ## 📱 Quick Ball
 
